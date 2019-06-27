@@ -1,5 +1,6 @@
 ## Blog 1: The Telegraph
-Week 1 06,27,2019
+Week 1
+06/27/2019
 
 
 

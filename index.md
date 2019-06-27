@@ -18,7 +18,7 @@ Week 1
 -	The Telegraph uniformed the prices of basic merchandise between cities and states.
 -	The Telegraph coordinated the industrial nation via the grid of time.
 
-All in all, I was amazed and honestly shocked after reading and studying the Telegraph 
+   All in all, I was amazed and honestly shocked after reading and studying the Telegraph 
 and comprehending its humungous impact on our society, ideology, and on the future of all communication devices. On the other hand, the cycle of new products was a real eye-opener. It has changed the way I perceive the world and future; as whenever I see or hear about a new product, I can’t help but start thinking about what will happen after the end of this cycle, how will the next new technology change our world? And so on with the cycle after that.
 
 

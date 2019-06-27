@@ -26,19 +26,19 @@ and comprehending its humungous impact on our society, ideology, and on the futu
 
 
 
-Bibliography:
+_Bibliography:
 
 
 
-Carrey, James W. “Technology and Ideology.” The Case of the Telegraph, faculty.georgetown.edu/irvinem/theory/Carey-TechnologyandIdeology.pdf.
+_Carrey, James W. “Technology and Ideology.” The Case of the Telegraph, faculty.georgetown.edu/irvinem/theory/Carey-TechnologyandIdeology.pdf.
 
 
 
-WU, Tim. “Introduction.” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 1–14.
+_WU, Tim. “Introduction.” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 1–14.
 
 
 
-WU, Tim. “Chapter 15: Esperanto for Machines” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 196–203.
+_WU, Tim. “Chapter 15: Esperanto for Machines” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 196–203.
 
  
  

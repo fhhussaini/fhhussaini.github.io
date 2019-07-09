@@ -21,17 +21,17 @@ Week 2
 
 
 
-_Bibliography
+_Bibliography:_
 
 
 
 
 
-_Wells, H. G. “The Idea of a World Encyclopedia.” Nature, vol. 138, no. 3500, 1936, pp. 917–924., sherlock.ischool.berkeley.edu/wells/world_brain.html.
+_Wells, H. G. “The Idea of a World Encyclopedia.” Nature, vol. 138, no. 3500, 1936, pp. 917–924., sherlock.ischool.berkeley.edu/wells/world_brain.html._
 
 
 
-_Wardrip-Fruin, Noah. “What Hypertext Is.” Proceedings of the Fifteenth ACM Conference on Hypertext & Hypermedia - HYPERTEXT 04, 2004, csis.pace.edu/~marchese/CS835/Lec3/p126-wardrip-fruin.pdf.
+_Wardrip-Fruin, Noah. “What Hypertext Is.” Proceedings of the Fifteenth ACM Conference on Hypertext & Hypermedia - HYPERTEXT 04, 2004, csis.pace.edu/~marchese/CS835/Lec3/p126-wardrip-fruin.pdf._
 
 
 
@@ -95,19 +95,19 @@ and comprehending its humungous impact on our society, ideology, and on the futu
 
 
 
-_Bibliography:
+_Bibliography:_
 
 
 
-_Carrey, James W. “Technology and Ideology.” The Case of the Telegraph, faculty.georgetown.edu/irvinem/theory/Carey-TechnologyandIdeology.pdf.
+_Carrey, James W. “Technology and Ideology.” The Case of the Telegraph, faculty.georgetown.edu/irvinem/theory/Carey-TechnologyandIdeology.pdf._
 
 
 
-_WU, Tim. “Introduction.” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 1–14.
+_WU, Tim. “Introduction.” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 1–14._
 
 
 
-_WU, Tim. “Chapter 15: Esperanto for Machines” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 196–203.
+_WU, Tim. “Chapter 15: Esperanto for Machines” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 196–203._
 
  
  

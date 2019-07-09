@@ -11,7 +11,27 @@ Week 2
    Nelson suggests that: “Instead of devising elaborate systems permitting the computer or its instructional contents to control the situation, why not permit the student to control the system, show him how to do so intelligently, and make it easy for him to find his own way?”. As he implies that schools or even computer programs and courses are similar to a brick wall obstructing the student from the subject and the way he gains information from said subject. And he has backed up his argument by using this illustration:
    
    
-![alt text]([Imgur](https://i.imgur.com/swHoQsT.png) "Logo Title Text 1")
+<img alt="Brick wall" src="https://imgur.com/swHoQsT">
+
+
+   While reading Nelson’s book, I have noticed that from 1974 he has been advocating the use of hyper-media in our education system as a way to give students more freedom and a new improved way of learning. Yet, I still believe that there is a lack of hyper-media and technology incorporated ways of teaching in our current education system. Many schools are still teaching students the same way they were taught 60 years ago, why is that? Is it because of the complexity of technology against the old ways? Or is it the lack of educational software available right now?
+
+
+   In my opinion, I believe that our current education system does not need a complete overhaul, instead it needs to integrate hyper-media and other ways of online learning, as well as giving the students more freedom (like choosing his subjects and the way he wants to study it) especially in high-school. And I think that this solution offers a middle ground between the two groups, and at the same time enhance or improve upon our cuurent system.
+
+
+
+_Bibliography
+
+
+
+
+
+_Wells, H. G. “The Idea of a World Encyclopedia.” Nature, vol. 138, no. 3500, 1936, pp. 917–924., sherlock.ischool.berkeley.edu/wells/world_brain.html.
+
+
+
+_Wardrip-Fruin, Noah. “What Hypertext Is.” Proceedings of the Fifteenth ACM Conference on Hypertext & Hypermedia - HYPERTEXT 04, 2004, csis.pace.edu/~marchese/CS835/Lec3/p126-wardrip-fruin.pdf.
 
 
 
@@ -19,24 +39,16 @@ Week 2
 
 
 
-_Bibliography:
 
 
 
-_Carrey, James W. “Technology and Ideology.” The Case of the Telegraph, faculty.georgetown.edu/irvinem/theory/Carey-TechnologyandIdeology.pdf.
 
 
-
-_WU, Tim. “Introduction.” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 1–14.
-
-
-
-_WU, Tim. “Chapter 15: Esperanto for Machines” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 196–203.
-
- 
- 
-
-
+   
+     
+     
+     
+       
 
 
 

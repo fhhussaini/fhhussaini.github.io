@@ -11,7 +11,7 @@ Week 2
    Nelson suggests that: “Instead of devising elaborate systems permitting the computer or its instructional contents to control the situation, why not permit the student to control the system, show him how to do so intelligently, and make it easy for him to find his own way?”. As he implies that schools or even computer programs and courses are similar to a brick wall obstructing the student from the subject and the way he gains information from said subject. And he has backed up his argument by using this illustration:
    
    
-![alt text](Picture1.png "Logo Title Text 1")
+![alt text]([Imgur](https://i.imgur.com/swHoQsT.png) "Logo Title Text 1")
 
 
 

@@ -1,3 +1,60 @@
+## Blog 2: Education and Technology
+Week 2
+07/3/2019
+
+
+
+ 
+   In describing our current education system, Theodor H. Nelson said: “Material is dumped on the students and their responses calibrated; their interaction and involvements with the material is not encouraged nor taken into consideration, but their dutifulness of response is carefully monitored” Stating that this issue is limiting students’ creativity by not allowing him to choose the materials he genuinely wants to study and exceed in. On the other hand, some people are countering his argument by saying that students need to have some knowledge in all areas; as they might discover later on an unfound passion or love to a subject he didn’t even know a couple of years back.
+
+
+   Nelson suggests that: “Instead of devising elaborate systems permitting the computer or its instructional contents to control the situation, why not permit the student to control the system, show him how to do so intelligently, and make it easy for him to find his own way?”. As he implies that schools or even computer programs and courses are similar to a brick wall obstructing the student from the subject and the way he gains information from said subject. And he has backed up his argument by using this illustration:
+   
+   
+![alt text](Picture1.png "Logo Title Text 1")
+
+
+
+
+
+
+
+_Bibliography:
+
+
+
+_Carrey, James W. “Technology and Ideology.” The Case of the Telegraph, faculty.georgetown.edu/irvinem/theory/Carey-TechnologyandIdeology.pdf.
+
+
+
+_WU, Tim. “Introduction.” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 1–14.
+
+
+
+_WU, Tim. “Chapter 15: Esperanto for Machines” The Master Switch: The Rise and Fall of Empires, Alfred A. Knopf, 2011, pp. 196–203.
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Blog 1: The Telegraph
 Week 1
 06/27/2019

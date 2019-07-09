@@ -11,7 +11,7 @@ Week 2
    Nelson suggests that: “Instead of devising elaborate systems permitting the computer or its instructional contents to control the situation, why not permit the student to control the system, show him how to do so intelligently, and make it easy for him to find his own way?”. As he implies that schools or even computer programs and courses are similar to a brick wall obstructing the student from the subject and the way he gains information from said subject. And he has backed up his argument by using this illustration:
    
    
-<img alt="Brick wall" src="https://imgur.com/swHoQsT">
+<a href="https://imgur.com/swHoQsT"><img src="https://i.imgur.com/swHoQsT.png" title="source: imgur.com" /></a>
 
 
    While reading Nelson’s book, I have noticed that from 1974 he has been advocating the use of hyper-media in our education system as a way to give students more freedom and a new improved way of learning. Yet, I still believe that there is a lack of hyper-media and technology incorporated ways of teaching in our current education system. Many schools are still teaching students the same way they were taught 60 years ago, why is that? Is it because of the complexity of technology against the old ways? Or is it the lack of educational software available right now?

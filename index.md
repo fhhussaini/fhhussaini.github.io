@@ -1,3 +1,15 @@
+## My Self-Portrait: https://fhhussaini.github.io/Self-Portrait/index.html
+
+
+
+
+
+
+
+
+
+
+
 ## Blog 2: Education and Technology
 Week 2
 07/3/2019

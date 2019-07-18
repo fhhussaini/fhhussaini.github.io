@@ -1,6 +1,40 @@
 ## <a href= "https://fhhussaini.github.io/Self-Portrait/index.html"> My Self-Portrait: </a>
 
 
+## Blog 3: Website Analysis
+Week 4
+07/17/2019
+
+
+
+   This week marks one of the first steps towards my research in analyzing a website’s history and the changes that occurred throughout the years. For this research, I have used Apple.com as the subject to be explored and studied.
+The site was examined in three different stages of its 23 years’ timeline (1996-2019).
+
+	
+   To start this study, I went and searched for ways to extract a website’s history, and I found out “The internet Archive”. It’s basically a huge digital archive of an enormous number of snapshots taken of different websites at different times. So basically, bots would visit as much sites as it could and take a snapshot of it; so, it can be saved in the archive for everyone to access it.
+
+   I then took some screenshots of Apple’s site in the three different stages (1996, 2006, 2019) and started analyzing all of its features, such as the font, buttons, and navigation bar. I have then started connecting the dots between the changes happening in these different snapshots, to the “DesignX: complex sociotechnical systems.” Article. Where it discusses the issues and solutions that many large-scale improvements suffer from, and I believe that these issues are represented in Apple’s site history but in a smaller more discreet manner.
+
+
+   And it turns out, people don’t prefer special effects or styles when they’re browsing the web. As many sites’ histories show us, people just want simple, flat, easy on the eye design. But the question remains, what will people want another 20 years from now?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -12,7 +46,7 @@
 
 ## Blog 2: Education and Technology
 Week 2
-07/3/2019
+07/03/2019
 
 
 

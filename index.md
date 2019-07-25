@@ -1,6 +1,68 @@
 ## <a href= "https://fhhussaini.github.io/Self-Portrait/index.html"> My Self-Portrait: </a>
 
 
+## Blog 4: Crowdsourcing 
+
+Week 5
+07/26/2019
+
+
+
+In a Los Angeles Times article called “Op-Ed: Your job is about to get ‘taskified’”, Mary L. Gray said “Forget the rise of robots and the distant threat of automation. The immediate issue is the Uber-izing of human labor, fragmenting of jobs into outsourced tasks and dismantling of wages into micropayments.” Where she then backs up her argument by explaining crowdsourcing and how it can affect us.
+
+Crowdsourcing is when large companies or organizations gain services and goods from a large group of internet users that are not employed in said company. Reading the article made me realize the issues that could occur in crowd work; as in most of the time, there’s no legal binding agreement between the individual and the company that protects the worker’s rights such as the labor laws found in many states. Subsequently, that would lead to many disagreements between the parties where one or the other (usually the worker) will suffer with no laws or rights to protect him. 
+
+Riyaz Khan’s experience with crowdsourcing is a perfect example of the how unjust this new system could be without the proper regulations. Khan and his team were finding work on Amazon Mechanical Turk (AMT). AMT is an online marketplace that connects individuals (online users) with companies and organizations that want to get work done. In the span of three years, Khan and his team managed to get a steady income that can support their families and friends and depended on it; meaning that this is their only flow of income.
+
+Suddenly, word got out that some Indian workers’ AMT accounts were suspended. Shortly after, one of Khan’s team members got his account suspended, and it didn’t take long till everyone in the team lost their accounts and the money in the account with no proper justification from AMT. Khan contacted the company’s customer service multiple times with no avail, just like his team members. And they no one could do anything about this as there’s no laws that protect Khan and his team’s rights. Six months later, Khan got his final pay check without any explanations, while other members still can’t get their money back with no way of even legally pursuing their rights.
+
+I believe that Khan and his team’s experience with crowdsourcing should encourage everyone to fight for a regulated controlled system that protects both the company’s and the individual’s rights; as if done correctly, crowdsourcing can be hugely beneficial to both parties and the future of the world as a whole.
+
+
+
+_Bibliography:_
+
+
+
+
+
+_Estellés-Arolas, Enrique, and Fernando González-Ladrón-De-Guevara. “Towards an Integrated Crowdsourcing Definition.” Journal of Information Science, vol. 38, no. 2, 2012, pp. 189–200., doi:10.1177/0165551512437638._
+
+
+
+_Natalie. “Databite No. 106: Virginia Eubanks, Alondra Nelson, Julia Angwin.” Data & Society, datasociety.net/events/databite-no-106-automating-inequality-virginia-eubanks-in-conversation-with-alondra-nelson-and-julia-angwin/._
+
+
+
+_“Op-Ed: Your Job Is about to Get 'Taskified'.” Los Angeles Times, Los Angeles Times, 9 Jan. 2016, www.latimes.com/opinion/op-ed/la-oe-0110-digital-turk-work-20160110-story.html._
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Blog 3: Website Analysis
 Week 4
 07/17/2019

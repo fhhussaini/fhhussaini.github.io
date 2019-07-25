@@ -87,6 +87,19 @@ The site was examined in three different stages of its 23 years’ timeline (199
 
 
 
+_Bibliography:_
+
+
+
+
+
+_Norman, Donald A., and Pieter Jan Stappers. “DesignX: Complex Sociotechnical Systems.” She Ji: The Journal of Design, Economics, and Innovation, vol. 1, no. 2, 2015, pp. 83–106., doi:10.1016/j.sheji.2016.01.002._
+
+
+
+_“THE FIELD GUIDE TO HUMAN CENTRED DESIGN.” Design Kit, 2015._
+
+
 
 
 
